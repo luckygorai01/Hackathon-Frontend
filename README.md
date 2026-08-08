@@ -114,3 +114,6 @@ pata/
 ├── API.md
 ├── DEPLOYMENT.md
 └── QUICKSTART.md
+
+
+User Input → Address Cleaning → Data Validation → Landmark Matching → Confidence Scoring → Result Display
